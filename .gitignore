@@ -1,0 +1,4 @@
+/__pycache__/
+/face_database/
+face_recognizer.yml
+label_mapping.pkl
